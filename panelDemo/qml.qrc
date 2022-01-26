@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Panel.qml</file>
+        <file>Subpanel1.qml</file>
+        <file>Subpanel2.qml</file>
+        <file>StackViewPage.qml</file>
+        <file>SideBar.qml</file>
+        <file>Panel2.qml</file>
+    </qresource>
+    <qresource prefix="/materials">
+        <file>d86f0134e858488b9c2e4865.jpg</file>
+        <file>commercial-plane-high-poly-3d-model-obj-fbx-blend-dae-mtl.jpg</file>
+    </qresource>
+</RCC>
