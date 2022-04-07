@@ -4,8 +4,6 @@
         <file>LeftPanel.qml</file>
         <file>RightPanel.qml</file>
         <file>MidPanel.qml</file>
-        <file>../../resources/collapse button.png</file>
-        <file>../../resources/expand button.png</file>
         <file>InnerLeftPanel.qml</file>
     </qresource>
     <qresource prefix="/materials">
@@ -18,5 +16,6 @@
         <file>history log page.png</file>
         <file>proj_info.png</file>
         <file>help.png</file>
+        <file>collapse button.png</file>
     </qresource>
 </RCC>

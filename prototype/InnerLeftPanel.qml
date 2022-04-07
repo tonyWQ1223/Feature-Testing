@@ -92,7 +92,7 @@ Item {
                 anchors.centerIn: parent
                 width: parent.width
                 height: parent.height
-                source: "../../resources/collapse button.png"
+                source: "/materials/collapse button.png"
                 fillMode: Image.PreserveAspectFit
                 visible: true
             }
