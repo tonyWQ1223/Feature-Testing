@@ -38,6 +38,7 @@ Window {
         z: 1
     }
 
+// hello!
 
     RightPanel{
         id: right_panel
