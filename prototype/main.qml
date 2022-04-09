@@ -28,6 +28,7 @@ Window {
         z: 2
     }
 // hello hello
+// test
 
     MidPanel{
         id: mid_panel
