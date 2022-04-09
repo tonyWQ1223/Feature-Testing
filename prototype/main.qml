@@ -30,7 +30,6 @@ Window {
 // hello hello
 // test
 // hi
-//
 
 
     MidPanel{
