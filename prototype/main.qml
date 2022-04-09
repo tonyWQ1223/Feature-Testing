@@ -29,6 +29,9 @@ Window {
     }
 // hello hello
 // test
+// hi
+//
+
 
     MidPanel{
         id: mid_panel
