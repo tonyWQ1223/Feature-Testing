@@ -27,7 +27,7 @@ Window {
         //anchors.left: left_panel.right
         z: 2
     }
-// hi hello
+// hello hello
 
 
     MidPanel{
